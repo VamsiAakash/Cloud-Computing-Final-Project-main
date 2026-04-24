@@ -572,9 +572,6 @@ pip3 install -r requirements.txt --break-system-packages
 - Streamlit Documentation: https://docs.streamlit.io/
 
 
-Add this to your README.md — paste it right after the Team Members section:
-
-```markdown
 ##  Demo Video & Dataset
 
 | Resource | Link |
