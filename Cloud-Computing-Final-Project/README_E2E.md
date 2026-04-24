@@ -571,6 +571,20 @@ pip3 install -r requirements.txt --break-system-packages
 - XGBoost Documentation: https://xgboost.readthedocs.io/
 - Streamlit Documentation: https://docs.streamlit.io/
 
----
+
+Add this to your README.md — paste it right after the Team Members section:
+
+```markdown
+##  Demo Video & Dataset
+
+| Resource | Link |
+|----------|------|
+| **12-Min Demo Video** | [Watch on Google Drive](https://drive.google.com/drive/u/1/folders/1o536vuibHBMx2vbTQYZj8lOQnjL-fPq7) |
+|  **Full Dataset (7.73M records)** | [Download from Google Drive](https://drive.google.com/drive/u/1/folders/1o536vuibHBMx2vbTQYZj8lOQnjL-fPq7) |
+
+> ⚠️ Dataset (3.2 GB) and Demo Video (12 min) are hosted on Google Drive due to GitHub file size limits.
+> Download `US_Accidents_March23.csv` and place it in the `data/` folder before running.
+```
+
 
 *This project shifts traffic accident management from reactive response to proactive intelligence.* 🚦
